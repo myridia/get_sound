@@ -2,9 +2,11 @@
 __pycache__/
 *.py[codz]
 *$py.class
+get_sound.dist/
 
 # C extensions
 *.so
+get_sound.bin
 
 # Distribution / packaging
 .Python

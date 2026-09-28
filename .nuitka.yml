@@ -1,0 +1,4 @@
+standalone: true
+onefile: true
+linux-icon: 
+enable-console: true
